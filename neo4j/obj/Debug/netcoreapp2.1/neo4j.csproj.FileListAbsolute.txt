@@ -1,0 +1,11 @@
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\bin\Debug\netcoreapp2.1\neo4j.deps.json
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\bin\Debug\netcoreapp2.1\neo4j.runtimeconfig.json
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\bin\Debug\netcoreapp2.1\neo4j.runtimeconfig.dev.json
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\bin\Debug\netcoreapp2.1\neo4j.dll
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\obj\Debug\netcoreapp2.1\neo4j.csprojAssemblyReference.cache
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\obj\Debug\netcoreapp2.1\neo4j.csproj.CoreCompileInputs.cache
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\obj\Debug\netcoreapp2.1\neo4j.AssemblyInfoInputs.cache
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\obj\Debug\netcoreapp2.1\neo4j.AssemblyInfo.cs
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\bin\Debug\netcoreapp2.1\neo4j.pdb
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\obj\Debug\netcoreapp2.1\neo4j.dll
+C:\Users\abdelrahmanamrsalem\source\repos\neo4j\neo4j\obj\Debug\netcoreapp2.1\neo4j.pdb
